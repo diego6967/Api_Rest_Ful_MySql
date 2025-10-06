@@ -15,5 +15,5 @@ pool.getConnection()
     .catch(error => {
         console.error('Error de conexión');
     });
-    
-    export default pool;   
+
+    export default pool; 
